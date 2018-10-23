@@ -1,2 +1,2 @@
-# php_angular
-Simple PHP with AngularJs Template
+# AngularJs
+Simple Template with AngularJs 
