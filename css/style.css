@@ -1,0 +1,17 @@
+body {
+	padding: 20px;
+}
+.media-list {
+    list-style: none;
+    padding-bottom: 15px;
+    padding-left: unset;
+}
+
+.media-list > li {
+	float: left;
+    margin-right: 15px;
+}
+
+a {
+	text-decoration: none;
+}
